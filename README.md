@@ -3,7 +3,6 @@
 
 一起学习✨
 
-Read more about my CSDN: [here](https://blog.csdn.net/weixin_46654114?type=blog)
 
 ### GitHub Analytics
 
