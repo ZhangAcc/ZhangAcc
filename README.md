@@ -4,15 +4,10 @@
   ⚡ ZhangAcc ⚡
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00F5FF&size=28&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+Java+SpringBoot;Fullstack+Developer+%7C+Vue3+%2B+TypeScript;Tech+Lover+%7C+AI+Explorer;Welcome+to+my+Digital+Space+💡" />
-</p>
+
 
 ---
 
-<p align="center">
-  <img src="https://i.imgur.com/yy1sVNb.gif" width="90%" alt="banner"/>
-</p>
 
 ---
 
