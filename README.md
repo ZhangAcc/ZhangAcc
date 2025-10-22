@@ -1,71 +1,90 @@
-<!-- 个人主页 README.md 可直接复制使用 -->
+<!-- 🧠 ZhangAcc GitHub Profile -->
 
-<h1 align="center">👋 Hi there, I'm 张!</h1>
+<h1 align="center">
+  ⚡ ZhangAcc ⚡
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C4FF&center=true&vCenter=true&lines=💻+Developer+%7C+Backend+Engineer;🚀+Java+%2B+Vue3+%2B+SpringBoot;🔥+Keep+Building%2C+Keep+Learning;✨+Welcome+to+My+GitHub!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00F5FF&size=28&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+Java+SpringBoot;Fullstack+Developer+%7C+Vue3+%2B+TypeScript;Tech+Lover+%7C+AI+Explorer;Welcome+to+my+Digital+Space+💡" />
 </p>
 
 ---
 
-## 🧠 About Me
-
-- 👨‍💻 I'm a **developer engineer** passionate about building scalable backend systems.  
-- ⚙️ Focused on **Java Spring Boot**, **Vue3**, and **TypeScript**.  
-- 🧩 I enjoy designing systems that connect real-world logic with digital precision.  
-- 🌱 Currently exploring **AI integration** and **real-time web applications**.  
-- 🧠 Motto: *"代码即逻辑，思维即架构。"*
-
----
-
-## 🧰 Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,vue,typescript,html,css,js,python,mysql,redis,docker,git,idea,vscode" />
+  <img src="https://i.imgur.com/yy1sVNb.gif" width="90%" alt="banner"/>
 </p>
 
 ---
 
-## 🚀 What I’m Doing
+## 🧬 About Me
 
-- 🌍 Building full-stack applications using **Spring Boot + Vue3**
-- ⚡ Experimenting with **WebSocket**, **Redis**, and **real-time systems**
-- 🧩 Exploring **AI x Frontend** integrations (vision & chat systems)
-- ✍️ Writing clean, maintainable code — and documenting it properly
+> 「代码是逻辑的延伸，而架构是思想的映射。」
+
+- 💼 Backend Developer / Full-stack Explorer  
+- ☕ 主力栈：**Java Spring Boot + Vue3 + TypeScript + MySQL + Redis**  
+- 🧠 专注：**实时系统、AI集成、工程自动化**  
+- 💬 信条：**Think Deeply, Build Simply.**  
+- 🌌 热衷：创造能让人“哇”的技术产品
 
 ---
 
-## 📊 GitHub Stats
+## 🧰 Tech Arsenal
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZhangAcc&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhangAcc&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,vue,typescript,python,html,css,js,redis,mysql,docker,git,github,vscode,idea" />
+</p>
+
+---
+
+## ⚙️ My Current Focus
+
+- 🚀 Building modern real-time chat systems  
+- 🔍 Exploring AI x Frontend vision integration  
+- 🧩 Practicing clean architecture & code scalability  
+- 🧠 Learning **system design** and **distributed caching**
+
+---
+
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZhangAcc&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhangAcc&layout=compact&theme=radical&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ZhangAcc&theme=onestar&no-bg=true&no-frame=true&column=6" />
 </p>
 
 ---
 
 ## 🧠 Quote of the Day
-> “Simplicity is the soul of efficiency.” – Austin Freeman
+> “Stay curious, stay bold, and automate everything.”
 
 ---
 
-## ☕ Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/<ZhangAcc>">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/ZhangAcc" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-ZhangAcc-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="mailto:<1463944989@qq.com>">
-    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:youremail@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/zhangacc" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-ZhangAcc-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=<ZhangAcc>&theme=dracula&no-bg=true&no-frame=true&column=7" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZhangAcc&theme=radical&hide_border=true" alt="streak stats"/>
 </p>
 
+---
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-💖%20by%20张-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20by%20ZhangAcc-blueviolet?style=for-the-badge" />
 </p>
