@@ -4,7 +4,7 @@
   ⚡ ZhangAcc ⚡
 </h1>
 
-
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);find world!&center=true&size=27"> </a> </h1>
 
 ---
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhangAcc&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
@@ -26,7 +26,7 @@
 ## 🧰 Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,typescript,html,css,js,mysql,docker,git,github,vscode,idea,next,react,vite,webpack,cursor,hbuilder,xshell,apifox" />
+  <img src="https://skillicons.dev/icons?i=vue,typescript,html,css,js,mysql,docker,git,github,vscode,idea,next,react,vite,webpack,discord" />
 </p>
 <p align="center">
 <span > <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> </span>
